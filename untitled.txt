@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>TG Career Counselling | Admission Open 2026</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+scroll-behavior:smooth;
+}
+
+body{
+background:#f5f8ff;
+color:#222;
+overflow-x:hidden;
+}
+
+nav{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 8%;
+background:#003b8e;
+box-shadow:0 5px 15px rgba(0,0,0,.15);
+z-index:999;
+}
+
+.logo{
+font-size:28px;
+font-weight:700;
+color:#fff;
+}
+
+.logo span{
+color:#ffc107;
+}
+
+nav ul{
+display:flex;
+list-style:none;
+gap:25px;
+}
+
+nav ul li a{
+color:white;
+text-decoration:none;
+font-weight:500;
+transition:.3s;
+}
+
+nav ul li a:hover{
+color:#ffc107;
+}
+
+.hero{
+min-height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+padding:120px 20px;
+background:linear-gradient(135deg,#004aad,#00b4ff);
+color:white;
+}
+
+.hero img{
+width:180px;
+background:white;
+padding:10px;
+border-radius:20px;
+margin-bottom:25px;
+}
+
+.hero h1{
+font-size:55px;
+margin-bottom:15px;
+}
+
+.hero p{
+font-size:22px;
+margin-bottom:25px;
+}
+
+.btn{
+display:inline-block;
+padding:15px 35px;
+background:#ffc107;
+color:#003b8e;
+text-decoration:none;
+font-weight:bold;
+border-radius:40px;
+transition:.3s;
+}
+
+.btn:hover{
+background:white;
+transform:translateY(-4px);
+}
+
+section{
+padding:80px 8%;
+}
+
+.title{
+text-align:center;
+font-size:36px;
+margin-bottom:40px;
+color:#003b8e;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:25px;
+}
+
+.card{
+background:white;
+padding:25px;
+border-radius:15px;
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+}
+
+@media(max-width:768px){
+
+nav{
+flex-direction:column;
+}
+
+nav ul{
+margin-top:15px;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+.hero h1{
+font-size:38px;
+}
+
+.hero p{
+font-size:18px;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<nav>
+
+<div class="logo">
+
+TG<span>Career Counselling</span>
+
+</div>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">Courses</a></li>
+
+<li><a href="#">Universities</a></li>
+
+<li><a href="#">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<section class="hero">
+
+<div>
+
+<img src="logo.png" alt="TG Career Counselling">
+
+<h1>Admission Open 2026</h1>
+
+<p>Discover • Plan • Achieve</p>
+
+<p>BCA • B.Tech • MBA • Nursing • Pharmacy • Law • Hotel Management • More</p>
+
+<a href="#" class="btn">
+
+Apply Now
+
+</a>
+
+</div>
+
+</section>
+<!-- ================= WHY CHOOSE US ================= -->
+
+<section id="about">
+
+<h2 class="title">Why Choose TG Career Counselling?</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>🎓 Trusted Career Guidance</h3>
+<p>Experienced admission experts to help you choose the right college and course.</p>
+</div>
+
+<div class="card">
+<h3>⚡ Fast Admission Process</h3>
+<p>Quick document verification and hassle-free admission support.</p>
+</div>
+
+<div class="card">
+<h3>💰 Scholarship Support</h3>
+<p>Complete guidance for scholarships, education loans and fee concessions.</p>
+</div>
+
+<div class="card">
+<h3>📞 Lifetime Support</h3>
+<p>We support students from admission to joining the university.</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= UNIVERSITIES ================= -->
+
+<section style="background:#eef5ff;">
+
+<h2 class="title">Featured Universities</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>🏫 Parul University</h3>
+<p>NAAC Accredited | Gujarat</p>
+</div>
+
+<div class="card">
+<h3>🏫 Jis University</h3>
+<p>Engineering | Nursing | Pharmacy | Management</p>
+</div>
+
+<div class="card">
+<h3>🏫 Swami Vivekananda University</h3>
+<p>Engineering | Nursing | Pharmacy | Management</p>
+</div>
+
+<div class="card">
+<h3>🏫 Haritage </h3>
+<p>BCA | AI | Cyber Security | ECE</p>
+</div>
+
+<div class="card">
+<h3>🏫 Techno India University</h3>
+<p>B.Tech | BCA | BBA | Science</p>
+</div>
+
+<div class="card">
+<h3>🏫 Haldi</h3>
+<p>Engineering | Nursing | Pharmacy | Management</p>
+</div>
+
+<div class="card">
+<h3>🏫 Brainware University</h3>
+<p>BCA | AI | Cyber Security | MBA</p>
+</div>
+
+<div class="card">
+<h3>🏫 NSHM</h3>
+<p>Hospitality | Nursing | Pharmacy | Media</p>
+</div>
+
+<div class="card">
+<h3>🏫 EIILM</h3>
+<p>BBA | MBA | Commerce | Computer Applications</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= DISCOUNT ================= -->
+
+<section>
+
+<div style="background:linear-gradient(135deg,#004aad,#00a6ff);padding:50px;border-radius:20px;color:white;text-align:center;">
+
+<h1 style="font-size:45px;">🎉 Admission Open 2026</h1>
+
+<h2 style="margin:20px 0;">Get Instant Discount Up To ₹6000</h2>
+
+<p style="font-size:20px;">Limited Seats Available • Apply Today</p>
+
+<a href="#admission" class="btn" style="margin-top:25px;">Apply Now</a>
+
+</div>
+
+</section>
+
+<!-- ================= STATISTICS ================= -->
+
+<section>
+
+<h2 class="title">Our Achievements</h2>
+
+<div class="grid">
+
+<div class="card">
+<h2 style="color:#004aad;">5000+</h2>
+<p>Students Counselled</p>
+</div>
+
+<div class="card">
+<h2 style="color:#004aad;">1500+</h2>
+<p>Successful Admissions</p>
+</div>
+
+<div class="card">
+<h2 style="color:#004aad;">40+</h2>
+<p>Professional Courses</p>
+</div>
+
+<div class="card">
+<h2 style="color:#004aad;">100%</h2>
+<p>Admission Guidance</p>
+</div>
+
+</div>
+
+</section>
+<!-- ================= COURSES ================= -->
+
+<section id="courses">
+
+<h2 class="title">Popular Courses</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>💻 Computer Courses</h3>
+<ul>
+<li>BCA</li>
+<li>MCA</li>
+<li>B.Sc Computer Science</li>
+<li>Cyber Security</li>
+<li>Artificial Intelligence</li>
+<li>Data Science</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>⚙ Engineering</h3>
+<ul>
+<li>B.Tech CSE</li>
+<li>B.Tech ECE</li>
+<li>B.Tech Civil</li>
+<li>B.Tech Mechanical</li>
+<li>B.Tech Electrical</li>
+<li>Diploma Engineering</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>💼 Management</h3>
+<ul>
+<li>BBA</li>
+<li>MBA</li>
+<li>B.Com</li>
+<li>M.Com</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🏥 Nursing</h3>
+<ul>
+<li>GNM</li>
+<li>ANM</li>
+<li>B.Sc Nursing</li>
+<li>Post Basic B.Sc Nursing</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>💊 Pharmacy</h3>
+<ul>
+<li>D.Pharm</li>
+<li>B.Pharm</li>
+<li>M.Pharm</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>⚖ Law</h3>
+<ul>
+<li>LLB</li>
+<li>BA LLB</li>
+<li>BBA LLB</li>
+<li>LLM</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🔬 Science</h3>
+<ul>
+<li>B.Sc</li>
+<li>M.Sc</li>
+<li>Biotechnology</li>
+<li>Microbiology</li>
+<li>Chemistry</li>
+<li>Physics</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🎨 Arts & Humanities</h3>
+<ul>
+<li>BA</li>
+<li>MA</li>
+<li>English</li>
+<li>History</li>
+<li>Political Science</li>
+<li>Education</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🌾 Agriculture</h3>
+<ul>
+<li>B.Sc Agriculture</li>
+<li>M.Sc Agriculture</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🏨 Hotel Management</h3>
+<ul>
+<li>BHM</li>
+<li>Hotel Management</li>
+<li>Tourism Management</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🏥 Allied Health</h3>
+<ul>
+<li>BPT</li>
+<li>BMLT</li>
+<li>DMLT</li>
+<li>Radiology</li>
+<li>Optometry</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>🎭 Other Courses</h3>
+<ul>
+<li>Fashion Designing</li>
+<li>Animation</li>
+<li>Journalism</li>
+<li>Mass Communication</li>
+<li>Fine Arts</li>
+</ul>
+</div>
+
+</div>
+
+</section>
+<!-- ================= ADMISSION FORM ================= -->
+
+<section id="admission">
+
+<h2 class="title">Apply For Admission</h2>
+
+<div class="card">
+
+<form>
+
+<input type="text" placeholder="Full Name" required>
+
+<input type="tel" placeholder="Mobile Number" required>
+
+<input type="email" placeholder="Email Address">
+
+<select required>
+
+<option>Select Course</option>
+
+<option>BCA</option>
+
+<option>B.Tech</option>
+
+<option>BBA</option>
+
+<option>MBA</option>
+
+<option>GNM Nursing</option>
+
+<option>B.Sc Nursing</option>
+
+<option>B.Pharm</option>
+
+<option>LLB</option>
+
+<option>Hotel Management</option>
+
+<option>Other</option>
+
+</select>
+
+<textarea rows="5" placeholder="Write Your Message"></textarea>
+
+<button type="submit" class="btn" style="border:none;cursor:pointer;">
+Submit Application
+</button>
+
+</form>
+
+</div>
+
+</section>
+
+<!-- ================= STUDENT REVIEWS ================= -->
+
+<section>
+
+<h2 class="title">Student Reviews</h2>
+
+<div class="grid">
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<h3>Rahul Das</h3>
+<p>
+TG Career Counselling helped me get admission quickly.
+Excellent guidance.
+</p>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<h3>Priya Sharma</h3>
+<p>
+Very supportive team.
+Thank you for helping me join Parul University.
+</p>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<h3>Sandip Mana </h3>
+<p>
+Very supportive team.
+Thank you for helping me join Haritage.
+</p>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<h3>Arif Khan</h3>
+<p>
+Highly recommended for admission counselling.
+</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= FAQ ================= -->
+
+<section>
+
+<h2 class="title">Frequently Asked Questions</h2>
+
+<div class="card">
+
+<h3>Q. Do you help with scholarships?</h3>
+
+<p>Yes, we provide complete scholarship guidance.</p>
+
+<hr><br>
+
+<h3>Q. Is hostel admission available?</h3>
+
+<p>Yes, hostel support is available for selected universities.</p>
+
+<hr><br>
+
+<h3>Q. Can I apply online?</h3>
+
+<p>Yes, you can apply online or contact us directly.</p>
+
+</div>
+
+</section>
+
+<!-- ================= CONTACT ================= -->
+
+<section>
+
+<h2 class="title">Contact Us</h2>
+
+<div class="grid">
+
+<div class="card">
+
+<h3>📞 Phone</h3>
+
+<p>8207264873</p>
+
+</div>
+
+<div class="card">
+
+<h3>📧 Email</h3>
+
+<p>tgcareercouncelling2000@gmail.com</p>
+
+</div>
+
+<div class="card">
+
+<h3>💬 WhatsApp</h3>
+
+<p>8207264873</p>
+
+</div>
+
+</div>
+
+</section>
+<!-- ================= FOOTER ================= -->
+
+<footer style="background:#003b8e;color:#fff;padding:50px 20px;text-align:center;">
+
+<h2>TG Career Counselling</h2>
+
+<p style="margin-top:15px;">
+Discover • Plan • Achieve
+</p>
+
+<p style="margin-top:15px;">
+Admission Open 2026
+</p>
+
+<p style="margin-top:20px;">
+📞 +91 8207264873
+</p>
+
+<p>
+📧 tgcareercouncelling2000@gmai.com
+</p>
+
+<p style="margin-top:20px;">
+Parul University | Jis University | Swami Vivekananda University | Haritage | Techno India | Haldi |Brainware University |NSHM | EIILM
+</p>
+
+<hr style="margin:30px 0;border-color:rgba(255,255,255,.3);">
+
+<p>
+
+© 2026 TG Career Counselling
+
+</p>
+
+</footer>
+
+<!-- ================= WHATSAPP BUTTON ================= -->
+
+<a href="https://wa.me/918207264873"
+
+style="
+
+position:fixed;
+
+bottom:20px;
+
+right:20px;
+
+width:60px;
+
+height:60px;
+
+background:#25D366;
+
+border-radius:50%;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+font-size:28px;
+
+color:white;
+
+text-decoration:none;
+
+box-shadow:0 10px 20px rgba(0,0,0,.25);
+
+z-index:9999;
+
+">
+
+💬
+
+</a>
+
+<!-- ================= CALL BUTTON ================= -->
+
+<a href="tel:8207264873"
+
+style="
+
+position:fixed;
+
+bottom:90px;
+
+right:20px;
+
+width:60px;
+
+height:60px;
+
+background:#004aad;
+
+border-radius:50%;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+font-size:28px;
+
+color:white;
+
+text-decoration:none;
+
+box-shadow:0 10px 20px rgba(0,0,0,.25);
+
+z-index:9999;
+
+">
+
+📞
+
+</a>
+
+<script>
+
+document.querySelector("form").addEventListener("submit",function(e){
+
+e.preventDefault();
+
+alert("Thank you for applying! We will contact you shortly.");
+
+});
+
+</script>
+
+</body>
+
+</html>
